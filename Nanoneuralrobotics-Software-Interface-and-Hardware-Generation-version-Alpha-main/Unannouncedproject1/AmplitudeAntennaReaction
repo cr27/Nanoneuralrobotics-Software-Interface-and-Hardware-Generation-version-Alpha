@@ -1,0 +1,13 @@
+The antenna of the nanobot can be designed to detect and interpret different
+amplitudes of electrical and optical signals. By choosing appropriate materials and engineering
+the structure of various antenna on the nanobot, it can be made sensitive to specific frequencies and amplitudes
+of signals. The nanobot can then use this information to initiate a particular behavior, such as movement or
+release of a drug payload.
+    1. Move the Nanobot - Amplitude = ~ 0.4
+    2. Deliver Chemical/Signal to environment - Amplitude = ~0.6
+    3. Manage Power and Energy - Amplitude = ~ 0.5
+    4. Nanobot is stuck and needs to be moved with a new signal - Amplitude = ~ 0.7
+    5. Action Potential/Neural Signal transformed by nanobot's analog circuitry into electrical or optical signal
+    tracking behavior of Neurons - Amplitude = ~0.8
+
+
